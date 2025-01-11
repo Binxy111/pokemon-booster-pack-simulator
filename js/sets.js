@@ -521,7 +521,7 @@ const sets = {
         cardsToPull: ["Energy", "Common", "Energy", "Common", "Common", "Common", "Common", "Rare", "Uncommon", "Uncommon", "Uncommon"],
         packArt: [
             {
-                front: "../images/packart/1stblastoise.jpg",
+                front: "https://www.argosytoys.co.uk/productimages/bx750x500/pokemon-tcg-scarlet---violet-booster-pack_460998.jpg",
                 back: "../images/packart/basesetback1.jpg",
             },
             {
