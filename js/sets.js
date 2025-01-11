@@ -512,4 +512,35 @@ const sets = {
         logoUrl: 'https://images.pokemontcg.io/base6/logo.png',
         updatedAt: '08/14/2020 09:35:00'
       },
+        scarletAndViolet: {
+        cards: scarletAndVioletCards,
+        cardsAreSorted: false,
+        chanceOfHolo: 1 / 3,
+        chanceOfSecretRare: 0,
+        holoReplaces5thCommon: false,
+        cardsToPull: ["Energy", "Common", "Energy", "Common", "Common", "Common", "Common", "Rare", "Uncommon", "Uncommon", "Uncommon"],
+        packArt: [
+            {
+                front: "../images/packart/1stblastoise.jpg",
+                back: "../images/packart/basesetback1.jpg",
+            },
+            {
+                front: "../images/packart/1stcharizard.jpg",
+                back: "../images/packart/basesetback2.jpg",
+            },
+            {
+                front: "../images/packart/1stvenusaur.jpg",
+                back: "../images/packart/basesetback3.jpg",
+            },
+        ],
+        code: "",
+        ptcgoCode: "SLV",
+        name: "Scarlet And Violet",
+        series: "Scarlet And Violet",
+        totalCards: 102,
+        releaseDate: "01/09/2023",
+        symbolUrl: "https://images.pokemontcg.io/base1/symbol.png",
+        logoUrl: "https://images.pokemontcg.io/base1/logo.png",
+        updatedAt: "01/10/2025 01:49:00"
+    },
 }
